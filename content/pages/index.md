@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hey There
 hide_title: false
 sections:
   - type: hero_section
