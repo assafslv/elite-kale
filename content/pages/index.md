@@ -8,10 +8,9 @@ sections:
       Design lead @IDEO, and a lecturer @CCA. I'm helping some really big brands
       design the future of education, imagine new experiences for television,
       and figure out what to do with connected vehicles.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      UX, product design, UI, illustration, digital strategy and overall
+      simplifier of big systems.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
